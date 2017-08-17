@@ -1,0 +1,24 @@
+.home-wrapper {
+  background: url('../images/background.jpg') no-repeat center top;
+  background-size: cover;
+  color: white ;
+}
+
+header {
+  padding: 10px 0;
+}
+
+
+header nav {
+  float: right;
+  margin-top: 20px;
+}
+
+header nav a {
+color: white;
+font-weight: bold;
+text-decoration: none;
+margin-left: 20px;
+padding: 20px 20px;
+
+}
